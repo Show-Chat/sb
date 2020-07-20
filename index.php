@@ -47,7 +47,7 @@ $("#lunaradio").lunaradio({
 	metadatatechnic: "directly",
 	ownmetadataurl: "",
 	streamurl: "http://live.radioclick.ro:8008",
-	streamtype: "shoutcast2",
+	streamtype: "icecast2",
 	icecastmountpoint: "/stream",
 	radionomyid: "",
 	radionomyapikey: "",
