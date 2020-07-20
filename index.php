@@ -46,7 +46,7 @@ $("#lunaradio").lunaradio({
 	itunestoken: "1000lIPN",
 	metadatatechnic: "directly",
 	ownmetadataurl: "",
-	streamurl: "https://ihon.herokuapp.com/http://live.radioclick.ro:8008",
+	streamurl: "http://live.radioclick.ro:8008",
 	streamtype: "shoutcast2",
 	icecastmountpoint: "/stream",
 	radionomyid: "",
