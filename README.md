@@ -13,3 +13,7 @@
 ## 4 Alegeți numele aplicatiei (App name) 
 ## 5 Alegeți o regiune: United States sau Europe
 ## 6 Deploy App
+
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/RomaniaChat/luna/fork" data-size="large" aria-label="Fork RomaniaChat/luna on GitHub">Fork</a>
