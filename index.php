@@ -61,7 +61,7 @@ $("#lunaradio").lunaradio({
 	debug: "false",
 	autoplay: "true",
 	usestreamcorsproxy: "false", 
-	corsproxy: "https://cors-romaniachat.herokuapp.com/?=",
+	corsproxy: "https://cors-romaniachat.herokuapp.com/?q=",
 });
 </script>					
 </html>
