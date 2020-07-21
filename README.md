@@ -16,4 +16,7 @@
 
 
 <!-- Place this tag where you want the button to render. -->
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 <a class="github-button" href="https://github.com/RomaniaChat/luna/fork" data-size="large" aria-label="Fork RomaniaChat/luna on GitHub">Fork</a>
+[fork my repository](https://github.com/RomaniaChat/luna/fork)
