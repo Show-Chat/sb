@@ -47,7 +47,7 @@ $("#lunaradio").lunaradio({
 	metadatatechnic: "directly",
 	ownmetadataurl: "https://api.codetabs.com/v1/proxy?quest=http://live.radioclick.ro:8008/currentsong?sid=1",
 	streamurl: "https://api.codetabs.com/v1/proxy?quest=http://live.radioclick.ro:8008",
-	streamtype: "icecast2",
+	streamtype: "shoutcast2",
 	icecastmountpoint: "/stream",
 	radionomyid: "",
 	radionomyapikey: "",
@@ -61,7 +61,7 @@ $("#lunaradio").lunaradio({
 	debug: "false",
 	autoplay: "true",
 	usestreamcorsproxy: "false", 
-	corsproxy: "https://cors-romaniachat.herokuapp.com",
+	corsproxy: "https://cors-romaniachat.herokuapp.com/?=",
 });
 </script>					
 </html>
